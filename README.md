@@ -2,7 +2,7 @@
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics
 
 
-##🏗️ Data Architecture
+###🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 <img width="1383" height="777" alt="Screenshot 2025-12-22 121423" src="https://github.com/user-attachments/assets/cb2f2cbd-529b-4e1d-8191-0cfa3753c107" />
