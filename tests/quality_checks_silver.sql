@@ -6,11 +6,15 @@ Description:
     It validates that the ETL process successfully cleaned, standardized, 
     and deduplicated the data.
     
-    Checks included:
+Checks included:
     1. Zero Nulls & Duplicates (Primary Key integrity).
     2. Zero Unwanted Spaces (TRIM check).
     3. Data Standardization (Confirming values are normalized).
     4. Date Logic (Confirming relationships like Order Date < Ship Date).
+
+Usage Notes:
+    - Run these checks after data loading Silver Layer.
+    - Investigate and resolve any discrepancies found during the checks.
 ================================================================================
 */
 
