@@ -1,6 +1,7 @@
 /*
 ================================================================================
 Script Purpose: Data Quality Checks (Silver Layer)
+
 Description: 
     This script performs quality assurance checks on the 'Silver' layer tables.
     It validates that the ETL process successfully cleaned, standardized, 
