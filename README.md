@@ -107,20 +107,6 @@ Below is the detailed roadmap showing the progress of each phase in the Data War
 
 ---
 
-## 🗂️ Data Catalog & Modeling
-
-The Data Warehouse follows a **Medallion Architecture** (Bronze, Silver, Gold).
-The final **Gold Layer** is modeled using a **Star Schema** optimized for analytical reporting.
-
-### 🌟 Star Schema Diagram
-![ER Diagram](./docs/star_schema_diagram.png) 
-*(Note: Don't forget to replace this path with your actual image)*
-
-> 📖 **Detailed Documentation:**
-> For a full list of tables, columns, and data types, please check the [**Full Data Catalog**](./docs/data_catalog.md).
-
----
-
 ## BI: Analytics & Reporting (Data Analysis)
 
 **Objective**
