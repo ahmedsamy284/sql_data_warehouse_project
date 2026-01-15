@@ -63,7 +63,6 @@ The Gold Layer is the business-level data representation, structured to support 
 
 ## 👤 Author
 **Ahmed Samy Abdullah**
-* **Role:** Telecommunications and Electronics Engineering Student | Aspiring Data Engineer
 * **Email:** ahmedahmed01026378757@gmail.com
 * **GitHub:** [ahmedsamy284](https://github.com/ahmedsamy284)
-*
+
