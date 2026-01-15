@@ -57,47 +57,52 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
   
   ***
-  
-## 🗺️ Project Roadmap
+  ## 🗺️ Project Roadmap
 
-This project was developed following a structured agile approach managed via **Notion**. Below is the detailed breakdown of the development phases:
+This project followed a structured agile approach. Below is the progress status for each phase:
 
-- [x] **1. Requirements Analysis**
-    - [x] Analyze & Understand the Requirements
+### 🟢 Phase 1: Requirements Analysis
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] Analyze & Understand the Requirements
 
-- [x] **2. Design Data Architecture**
-    - [x] Choose Data Management Approach (Medallion Architecture)
-    - [x] Brainstorm & Design The Layers
-    - [x] Draw The Data Architecture
+### 🟡 Phase 2: Design Data Architecture
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] Choose Data Management Approach (Medallion Architecture)
+- [x] Brainstorm & Design The Layers
+- [x] Draw The Data Architecture
 
-- [x] **3. Project Initialization**
-    - [x] Create Detailed Project Tasks
-    - [x] Define Project Naming Conventions
-    - [x] Create Git Repo & Prepare The Repo Structure
-    - [x] Create Database & Schemas
+### 🟠 Phase 3: Project Initialization
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] Create Detailed Project Tasks
+- [x] Define Project Naming Conventions
+- [x] Create Git Repo & Prepare Structure
+- [x] Create Database & Schemas
 
-- [x] **4. Build Bronze Layer (Raw Data)**
-    - [x] Analysis: Source Systems
-    - [x] Coding: Data Ingestion (Stored Procedures)
-    - [x] Validation: Data Completeness & Schema Checks
-    - [x] Documentation: Draw Data Flow (Draw.io)
-    - [x] Commit Code to Git Repo
+### 🟤 Phase 4: Build Bronze Layer (Raw)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] **Analysis:** Source Systems
+- [x] **Coding:** Data Ingestion (Stored Procedures)
+- [x] **Validation:** Data Completeness Checks
+- [x] **Documentation:** Draw Data Flow
+- [x] Commit Code to Git
 
-- [x] **5. Build Silver Layer (Cleansed Data)**
-    - [x] Analysis: Explore & Understand Data
-    - [x] Coding: Data Cleansing & Standardization
-    - [x] Validation: Data Correctness Checks
-    - [x] Documentation: Extend Data Flow (Draw.io)
-    - [x] Commit Code in Git Repo
+### ⚪ Phase 5: Build Silver Layer (Clean)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] **Analysis:** Explore & Understand Data
+- [x] **Coding:** Data Cleansing & Standardization
+- [x] **Validation:** Data Correctness Checks
+- [x] **Documentation:** Extend Data Flow
+- [x] Commit Code to Git
 
-- [x] **6. Build Gold Layer (Star Schema)**
-    - [x] Analysis: Explore Business Objects (Dimensions & Facts)
-    - [x] Coding: Data Integration (Views)
-    - [x] Validation: Data Integration Checks (Foreign Keys)
-    - [x] Document: Draw Data Model of Star Schema (Draw.io)
-    - [x] Document: Extend Data Flow (Draw.io)
-    - [x] Document: Create Data Catalog
-    - [x] Commit Code in Git Repo
+### 🟡 Phase 6: Build Gold Layer (Star Schema)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+- [x] **Analysis:** Define Dimensions & Facts
+- [x] **Coding:** Create Views & Logic
+- [x] **Validation:** Integration Checks (Foreign Keys)
+- [x] **Documentation:** Draw Star Schema Model
+- [x] **Documentation:** Create Data Catalog
+- [x] Commit Code to Git
+-
  
   ***
 
