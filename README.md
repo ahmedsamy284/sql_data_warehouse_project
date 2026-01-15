@@ -56,55 +56,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 * **Scope**: Focus on the latest dataset only; historization of data is not required.
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
   
-  ***
-  ## 🗺️ Project Roadmap
-
-This project followed a structured agile approach. Below is the progress status for each phase:
-
-### 🟢 Phase 1: Requirements Analysis
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] Analyze & Understand the Requirements
-
-### 🟡 Phase 2: Design Data Architecture
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] Choose Data Management Approach (Medallion Architecture)
-- [x] Brainstorm & Design The Layers
-- [x] Draw The Data Architecture
-
-### 🟠 Phase 3: Project Initialization
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] Create Detailed Project Tasks
-- [x] Define Project Naming Conventions
-- [x] Create Git Repo & Prepare Structure
-- [x] Create Database & Schemas
-
-### 🟤 Phase 4: Build Bronze Layer (Raw)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] **Analysis:** Source Systems
-- [x] **Coding:** Data Ingestion (Stored Procedures)
-- [x] **Validation:** Data Completeness Checks
-- [x] **Documentation:** Draw Data Flow
-- [x] Commit Code to Git
-
-### ⚪ Phase 5: Build Silver Layer (Clean)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] **Analysis:** Explore & Understand Data
-- [x] **Coding:** Data Cleansing & Standardization
-- [x] **Validation:** Data Correctness Checks
-- [x] **Documentation:** Extend Data Flow
-- [x] Commit Code to Git
-
-### 🟡 Phase 6: Build Gold Layer (Star Schema)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-- [x] **Analysis:** Define Dimensions & Facts
-- [x] **Coding:** Create Views & Logic
-- [x] **Validation:** Integration Checks (Foreign Keys)
-- [x] **Documentation:** Draw Star Schema Model
-- [x] **Documentation:** Create Data Catalog
-- [x] Commit Code to Git
--
-
  ***
+
 ## 🗺️ Project Roadmap
 
 Below is the detailed roadmap showing the progress of each phase in the Data Warehouse development lifecycle.
@@ -150,7 +103,7 @@ Below is the detailed roadmap showing the progress of each phase in the Data War
 - ✅ **Documentation:** Draw Data Model of Star Schema (Draw.io)
 - ✅ **Documentation:** Create Data Catalog
 - ✅ Commit Code in Git Repo
--
+
 ***
 
 ## BI: Analytics & Reporting (Data Analysis)
