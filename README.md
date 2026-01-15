@@ -84,4 +84,5 @@ This project is part of my learning journey, where I designed and implemented a 
 The project focuses on data ingestion, transformation, data modeling, and preparing data for analytics and reporting using SQL.
 
 This project aims to build practical skills in Data Engineering and prepare me for internships and real-world data projects.
-
+* **Email:** ahmedahmed01026378757@gmail.com
+* **GitHub:** [ahmedsamy284](https://github.com/ahmedsamy284)
