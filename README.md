@@ -105,6 +105,33 @@ This project followed a structured agile approach. Below is the progress status 
 -
 
  ***
+## 🗺️ Project Roadmap & Progress
+
+| Phase | Progress | Status | Tasks Completed |
+| :--- | :--- | :---: | :--- |
+| **1. Requirements Analysis** | ![100%](https://geps.dev/progress/100) | ✅ | Analysis & Understanding |
+| **2. Design Data Architecture** | ![100%](https://geps.dev/progress/100) | ✅ | Medallion Arch, Star Schema |
+| **3. Project Initialization** | ![100%](https://geps.dev/progress/100) | ✅ | Git Repo, DB Creation |
+| **4. Build Bronze Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Ingestion, Validation |
+| **5. Build Silver Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Cleaning, Standardization |
+| **6. Build Gold Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Modeling, Reporting Views |
+
+<br>
+
+### 🛠️ Detailed Task Checklist
+<details>
+<summary>Click to expand full task list</summary>
+
+- [x] **Requirements:** Analyze Business Needs
+- [x] **Architecture:** Design Medallion Architecture
+- [x] **Setup:** Create Git Repo & Database Schemas
+- [x] **Bronze:** Build Ingestion Stored Procedures
+- [x] **Silver:** Implement Data Cleansing Logic
+- [x] **Gold:** Build Fact & Dimension Views
+- [x] **Docs:** Generate Data Catalog & Draw.io Models
+
+</details>
+***
 
 ## BI: Analytics & Reporting (Data Analysis)
 
