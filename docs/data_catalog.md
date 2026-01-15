@@ -1,9 +1,3 @@
-# 🏗️ Data Warehouse Project (End-to-End ETL)
-
-![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 ## 📌 Project Overview
 This project demonstrates a complete **Data Warehousing** solution using **SQL Server**. It involves building an ETL (Extract, Transform, Load) pipeline that ingests raw data from CSV files, cleans and transforms it using complex SQL logic, and loads it into a **Star Schema** optimized for reporting.
 
