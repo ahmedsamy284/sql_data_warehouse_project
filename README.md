@@ -58,6 +58,49 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
   
   ***
   
+## 🗺️ Project Roadmap
+
+This project was developed following a structured agile approach managed via **Notion**. Below is the detailed breakdown of the development phases:
+
+- [x] **1. Requirements Analysis**
+    - [x] Analyze & Understand the Requirements
+
+- [x] **2. Design Data Architecture**
+    - [x] Choose Data Management Approach (Medallion Architecture)
+    - [x] Brainstorm & Design The Layers
+    - [x] Draw The Data Architecture
+
+- [x] **3. Project Initialization**
+    - [x] Create Detailed Project Tasks
+    - [x] Define Project Naming Conventions
+    - [x] Create Git Repo & Prepare The Repo Structure
+    - [x] Create Database & Schemas
+
+- [x] **4. Build Bronze Layer (Raw Data)**
+    - [x] Analysis: Source Systems
+    - [x] Coding: Data Ingestion (Stored Procedures)
+    - [x] Validation: Data Completeness & Schema Checks
+    - [x] Documentation: Draw Data Flow (Draw.io)
+    - [x] Commit Code to Git Repo
+
+- [x] **5. Build Silver Layer (Cleansed Data)**
+    - [x] Analysis: Explore & Understand Data
+    - [x] Coding: Data Cleansing & Standardization
+    - [x] Validation: Data Correctness Checks
+    - [x] Documentation: Extend Data Flow (Draw.io)
+    - [x] Commit Code in Git Repo
+
+- [x] **6. Build Gold Layer (Star Schema)**
+    - [x] Analysis: Explore Business Objects (Dimensions & Facts)
+    - [x] Coding: Data Integration (Views)
+    - [x] Validation: Data Integration Checks (Foreign Keys)
+    - [x] Document: Draw Data Model of Star Schema (Draw.io)
+    - [x] Document: Extend Data Flow (Draw.io)
+    - [x] Document: Create Data Catalog
+    - [x] Commit Code in Git Repo
+ 
+  ***
+
 ## BI: Analytics & Reporting (Data Analysis)
 
 **Objective**
