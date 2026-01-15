@@ -103,7 +103,31 @@ This project followed a structured agile approach. Below is the progress status 
 - [x] **Documentation:** Create Data Catalog
 - [x] Commit Code to Git
 -
- 
+
+ ***
+ gantt
+    title Data Warehouse Project Roadmap
+    dateFormat  YYYY-MM-DD
+    axisFormat  %W
+    
+    section 1. Requirements
+    Analyze Requirements       :done,    des1, 2023-01-01, 2d
+
+    section 2. Architecture
+    Design Architecture        :done,    des2, after des1, 3d
+    
+    section 3. Initialization
+    Setup Repo & DB            :done,    des3, after des2, 2d
+    
+    section 4. Bronze Layer
+    Ingestion & Validation     :active,  des4, after des3, 5d
+    
+    section 5. Silver Layer
+    Cleansing & Standardization:active,  des5, after des4, 5d
+    
+    section 6. Gold Layer
+    Star Schema Modeling       :active,  des6, after des5, 5d
+    Data Catalog & Docs        :active,  des7, after des6, 3d
   ***
 
 ## BI: Analytics & Reporting (Data Analysis)
