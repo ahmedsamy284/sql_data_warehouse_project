@@ -105,32 +105,52 @@ This project followed a structured agile approach. Below is the progress status 
 -
 
  ***
-## 🗺️ Project Roadmap & Progress
+## 🗺️ Project Roadmap
 
-| Phase | Progress | Status | Tasks Completed |
-| :--- | :--- | :---: | :--- |
-| **1. Requirements Analysis** | ![100%](https://geps.dev/progress/100) | ✅ | Analysis & Understanding |
-| **2. Design Data Architecture** | ![100%](https://geps.dev/progress/100) | ✅ | Medallion Arch, Star Schema |
-| **3. Project Initialization** | ![100%](https://geps.dev/progress/100) | ✅ | Git Repo, DB Creation |
-| **4. Build Bronze Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Ingestion, Validation |
-| **5. Build Silver Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Cleaning, Standardization |
-| **6. Build Gold Layer** | ![100%](https://geps.dev/progress/100) | ✅ | Modeling, Reporting Views |
+Below is the detailed roadmap showing the progress of each phase in the Data Warehouse development lifecycle.
 
-<br>
+### 1. Requirements Analysis
+![100%](https://geps.dev/progress/100)
+- ✅ Analyze & Understand the Requirements
 
-### 🛠️ Detailed Task Checklist
-<details>
-<summary>Click to expand full task list</summary>
+### 2. Design Data Architecture
+![100%](https://geps.dev/progress/100)
+- ✅ Choose Data Management Approach (Medallion Architecture)
+- ✅ Brainstorm & Design The Layers
+- ✅ Draw The Data Architecture
 
-- [x] **Requirements:** Analyze Business Needs
-- [x] **Architecture:** Design Medallion Architecture
-- [x] **Setup:** Create Git Repo & Database Schemas
-- [x] **Bronze:** Build Ingestion Stored Procedures
-- [x] **Silver:** Implement Data Cleansing Logic
-- [x] **Gold:** Build Fact & Dimension Views
-- [x] **Docs:** Generate Data Catalog & Draw.io Models
+### 3. Project Initialization
+![100%](https://geps.dev/progress/100)
+- ✅ Create Detailed Project Tasks
+- ✅ Define Project Naming Conventions
+- ✅ Create Git Repo & Prepare The Repo Structure
+- ✅ Create Database & Schemas
 
-</details>
+### 4. Build Bronze Layer (Raw Data)
+![100%](https://geps.dev/progress/100)
+- ✅ **Analysis:** Source Systems
+- ✅ **Coding:** Data Ingestion (Stored Procedures)
+- ✅ **Validation:** Data Completeness & Schema Checks
+- ✅ **Documentation:** Draw Data Flow (Draw.io)
+- ✅ Commit Code in Git Repo
+
+### 5. Build Silver Layer (Cleansed Data)
+![100%](https://geps.dev/progress/100)
+- ✅ **Analysis:** Explore & Understand Data
+- ✅ **Coding:** Data Cleansing & Standardization
+- ✅ **Validation:** Data Correctness Checks
+- ✅ **Documentation:** Extend Data Flow (Draw.io)
+- ✅ Commit Code in Git Repo
+
+### 6. Build Gold Layer (Star Schema)
+![100%](https://geps.dev/progress/100)
+- ✅ **Analysis:** Explore Business Objects (Dimensions & Facts)
+- ✅ **Coding:** Data Integration (Views)
+- ✅ **Validation:** Data Integration Checks (Foreign Keys)
+- ✅ **Documentation:** Draw Data Model of Star Schema (Draw.io)
+- ✅ **Documentation:** Create Data Catalog
+- ✅ Commit Code in Git Repo
+-
 ***
 
 ## BI: Analytics & Reporting (Data Analysis)
