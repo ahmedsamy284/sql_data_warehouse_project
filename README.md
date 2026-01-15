@@ -1,9 +1,10 @@
-# SQL Data Wrehouse And Analytics Project
+# SQL Data Warehouse And Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-***
+---
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
@@ -38,7 +39,7 @@ This project involves:
  * **Data Modeling**
  * **Data Analytics**
 
-***
+---
 
 ## 🚀 Project Requirements
 
@@ -56,7 +57,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 * **Scope**: Focus on the latest dataset only; historization of data is not required.
 * **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
   
- ***
+ ---
 
 ## 🗺️ Project Roadmap
 
@@ -104,7 +105,21 @@ Below is the detailed roadmap showing the progress of each phase in the Data War
 - ✅ **Documentation:** Create Data Catalog
 - ✅ Commit Code in Git Repo
 
-***
+---
+
+## 🗂️ Data Catalog & Modeling
+
+The Data Warehouse follows a **Medallion Architecture** (Bronze, Silver, Gold).
+The final **Gold Layer** is modeled using a **Star Schema** optimized for analytical reporting.
+
+### 🌟 Star Schema Diagram
+![ER Diagram](./docs/star_schema_diagram.png) 
+*(Note: Don't forget to replace this path with your actual image)*
+
+> 📖 **Detailed Documentation:**
+> For a full list of tables, columns, and data types, please check the [**Full Data Catalog**](./docs/data_catalog.md).
+
+---
 
 ## BI: Analytics & Reporting (Data Analysis)
 
@@ -120,10 +135,12 @@ Develop SQL-based analytics to deliver detailed insights into:
   
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-___
+---
 
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+---
 
 ## 🌟 About Me
 Hi there! I'm **Ahmed Samy Abdullah**, I’m a Telecommunications and Electronics Engineering student with a strong interest in Data Engineering and Data Warehousing.
