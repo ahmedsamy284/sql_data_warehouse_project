@@ -58,15 +58,3 @@ The Gold Layer is the business-level data representation, structured to support 
 | `sales_amount` | INT | The total monetary value of the sale for the line item, in whole currency units. |
 | `quantity` | INT | The number of units of the product ordered for the line item. |
 | `price` | INT | The price per unit of the product for the line item, in whole currency units. |
-
----
-[![Email](https://img.shields.io/badge/Email-ahmedahmed01026378757%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedahmed01026378757@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedsamy284-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsamy284)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--samy--009b38387-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samy-009b38387)
-[!
-
----
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedahmed01026378757@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsamy284)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samy-009b38387)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedsamy4467)
