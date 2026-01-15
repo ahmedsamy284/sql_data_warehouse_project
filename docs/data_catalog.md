@@ -62,4 +62,9 @@ The Gold Layer is the business-level data representation, structured to support 
 ---
 [![Email](https://img.shields.io/badge/Email-ahmedahmed01026378757%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedahmed01026378757@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmedsamy284-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsamy284)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmedsamy4467)
+[![Instagram](https://img.shields.io/badge/Instagram-ahmedsamy4467-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedsamy4467)
+
+---
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedahmed01026378757@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsamy284)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedsamy4467)
